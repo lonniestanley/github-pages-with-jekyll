@@ -1,9 +1,9 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
+title: Lonnie's Blog
+author: Lonnie
+email: lonnie@trusthamilton.com
+description: Just another blog> # this means to ignore newlines until "baseurl:"
+  site here. You can edit this
+  line in _confi g.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 # social links
@@ -12,4 +12,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minima
